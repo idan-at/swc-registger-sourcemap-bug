@@ -1,0 +1,16 @@
+{
+  "name": "swc-sourcemap-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@swc/core": "^1.2.54",
+    "@swc/register": "^0.1.7"
+  }
+}
